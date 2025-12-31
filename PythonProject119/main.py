@@ -1,0 +1,5 @@
+a = input(f"Enter A: ")
+b = input(f"Enter B: ")
+upper_a = a.upper()
+upper_b = b.upper()
+print(f"{upper_a} and {upper_b} sat in the tree.\n{upper_a} had fallen, {upper_b} was stolen.\nWhat's remaining in the tree?")

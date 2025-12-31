@@ -1,0 +1,6 @@
+calories = float(input(f"Enter number of calories burned in one minute:"))
+print(f"number of calories burned in 10 minutes: {calories} * {10} = {calories * 10}")
+print(f"number of calories burned in 15 minutes: {calories} * {15} = {calories * 15}")
+print(f"number of calories burned in 20 minutes: {calories} * {20} = {calories * 20}")
+print(f"number of calories burned in 25 minutes: {calories} * {25} = {calories * 25}")
+print(f"number of calories burned in 30 minutes: {calories} * {30} = {calories * 30}")
